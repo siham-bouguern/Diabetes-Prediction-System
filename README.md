@@ -11,9 +11,6 @@ This project presents a predictive model for diagnosing diabetes based on the an
 The primary goal of this project is to develop an accurate and reliable prediction model that aids in the early diagnosis of diabetes. Leveraging machine learning techniques, the system processes the provided diagnostic measurements to classify patients into diabetic or non-diabetic categories.
 
 ## About the Dataset Used
-
-![download](https://github.com/siham-bouguern/Diabetes-Prediction-System/assets/140173145/f294fbb5-163c-4158-b636-7ba279245ec5)
-
 The dataset encompasses critical health metrics, providing a comprehensive view for predictive analysis. The key variables include:
 - Pregnancies
 - Glucose
@@ -26,9 +23,6 @@ The dataset encompasses critical health metrics, providing a comprehensive view 
 
 ## Results
 The developed Diabetes Prediction System demonstrates promising accuracy and reliability in identifying individuals at risk of diabetes. The model's performance is assessed through rigorous evaluation metrics, providing insights into its strengths and areas for potential improvement.
-
-![download (1)](https://github.com/siham-bouguern/Diabetes-Prediction-System/assets/140173145/7e872b46-1b94-4579-92a6-c74a3e8255aa)
-
 
 ## Files Included
 - [.ipynb Notebook](https://github.com/siham-bouguern/Diabetes-Prediction-System/blob/main/Diabetes%20Prediction%20System.ipynb)
