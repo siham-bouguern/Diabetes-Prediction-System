@@ -21,3 +21,6 @@ The dataset encompasses critical health metrics, providing a comprehensive view 
 - Age
 - Outcome: Target variable indicating diabetes presence (1) or absence (0)
 
+## Files Included
+- [.ipynb Notebook](https://github.com/siham-bouguern/Diabetes-Prediction-System/blob/main/Diabetes%20Prediction%20System.ipynb)
+- [Dataset](https://github.com/siham-bouguern/Diabetes-Prediction-System/blob/main/diabetes.csv)
